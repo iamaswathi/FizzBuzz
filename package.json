@@ -1,0 +1,14 @@
+{
+  "name": "jasmine-node-starter",
+  "version": "0.1.0",
+  "description": "FizzBuzz Test environment",
+  "main": "-",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Aswathi Prakash",
+  "license": "",
+  "devDependencies": {
+    "jasmine": "^3.7.0"
+  }
+}
