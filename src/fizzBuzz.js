@@ -22,8 +22,10 @@ function fizzBuzz(theLength) {
                 result.push(i);
             }
         }
+        
         return result;
     }
 }
+console.log(fizzBuzz(100));
 
 module.exports = fizzBuzz;

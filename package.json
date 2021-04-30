@@ -4,7 +4,8 @@
   "description": "FizzBuzz Test environment",
   "main": "-",
   "scripts": {
-    "test": "jasmine"
+    "test": "jasmine",
+    "start": "node src/fizzBuzz.js"
   },
   "author": "Aswathi Prakash",
   "license": "",

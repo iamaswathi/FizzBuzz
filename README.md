@@ -11,5 +11,8 @@ In the project directory, you can run:
 ### `npm install`
 This installs all the dependencies
 
+### `npm start`
+This executes the fizzBuzz() and prints the output in the console
+
 ### `npm test`
 This executes the Jasmine test cases
